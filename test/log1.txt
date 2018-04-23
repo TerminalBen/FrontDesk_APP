@@ -1,0 +1,151 @@
+
+
+
+Wed Jan 04 11:52:23 WET 2017
+Funcionario:
+bento
+Nome do Visitante:
+Rui
+Apelido do visitante:
+Barros
+Mensagem:
+ola
+
+
+
+
+Thu Jan 05 11:28:46 WET 2017
+Funcionario:
+Bento Lima
+Nome do Visitante:
+Pedro
+Apelido do visitante:
+Dias
+Acção: 
+[]
+Mensagem:
+Ola Bebe
+
+
+
+
+Thu Jan 05 11:58:06 WET 2017
+Funcionario:
+Bento Lima
+Nome do Visitante:
+ZZZZZZZZZ
+Apelido do visitante:
+YYYYYYYYY
+Acção: 
+[]
+Mensagem:
+Ola
+
+
+
+
+Thu Jan 05 11:59:08 WET 2017
+Funcionario:
+
+Nome do Visitante:
+
+Apelido do visitante:
+
+Acção: 
+[]
+Mensagem:
+
+
+
+
+
+Thu Jan 05 11:59:25 WET 2017
+Funcionario:
+Bento Lima
+Nome do Visitante:
+ZZZZZZZZZ
+Apelido do visitante:
+YYYYYYYYY
+Acção: 
+[]
+Mensagem:
+Ola
+
+
+
+
+Thu Jan 12 16:25:31 WET 2017
+Funcionario:
+
+Nome do Visitante:
+
+Apelido do visitante:
+
+Acção: 
+[]
+Mensagem:
+
+
+
+
+
+Thu Jan 12 16:27:59 WET 2017
+Funcionario:
+ola
+Nome do Visitante:
+bebe
+Apelido do visitante:
+ eu
+Acção: 
+[]
+Mensagem:
+fodo
+
+
+
+
+Thu Jan 12 16:31:37 WET 2017
+Funcionario:
+Bento Lima
+Nome do Visitante:
+Andre
+Apelido do visitante:
+Silva
+Acção: 
+[]
+Mensagem:
+ola bebe
+
+
+
+
+Thu Jan 12 16:32:19 WET 2017
+Funcionario:
+vai
+Nome do Visitante:
+para a
+Apelido do visitante:
+puta
+Acção: 
+[]
+Mensagem:
+que pariu
+
+
+
+
+Thu Jan 12 17:01:43 WET 2017
+Funcionario:
+Bento Lima
+Nome do Visitante:
+jose
+Apelido do visitante:
+Brandao
+Acção: 
+[Telefonou, Veio cá]
+Mensagem:
+Ola ben
+
+
+
+
